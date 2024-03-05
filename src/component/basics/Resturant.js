@@ -12,6 +12,7 @@ const uniqueList = [ ...new Set (
   console.log(uniqueList);
 
 // you are doing the grreat job
+// you can do more
  const Resturant = () => {
 
     const [menuData, setMenudata] = useState(Menu);
